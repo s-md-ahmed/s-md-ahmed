@@ -21,7 +21,7 @@ Passionate about building full-stack AI applications.
 | :--- | :--- | :--- |
 | **[multimodal_agentic_rag](https://github.com/s-md-ahmed/multimodal_agentic_rag)** | Python, LangChain, LLMs | Advanced Multimodal Agentic RAG system for document querying. |
 | **[productreview](https://github.com/s-md-ahmed/productreview)** | Node.js, Express, MongoDB, Bootstrap | Full-stack product review portal with user auth, image auto-detection, and full CRUD. |
-| **[MRLdrowsiness](https://github.com/s-md-ahmed/MRLdrowsiness)** | Python, PyTorch, OpenCV | Real-time computer vision driver drowsiness detection system. |
+| **[MRLdrowsiness](https://github.com/s-md-ahmed/MRLdrowsiness)** | Python, PyTorch, OpenCV | Final-year deep learning project trained on static eye image datasets |
 | **[nlpapp](https://github.com/s-md-ahmed/nlpapp)** | Python, NLP | Natural language processing application for text analysis. |
 
 ---
