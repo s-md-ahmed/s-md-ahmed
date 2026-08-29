@@ -1,19 +1,21 @@
-### Hi there, I'm Syed Muhammad Ahmed 👋
+### Hi there, I'm Syed Muhammad Ahmed
 
-🚀 **Software Developer & AI Enthusiast** | Computer Science Graduate  
-💻 Passionate about building full-stack applications, computer vision systems, and multimodal AI pipelines.
-
----
-
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, JavaScript, TypeScript, C++, SQL
-* **AI & ML:** PyTorch, OpenCV, MediaPipe, Hugging Face, LangChain, RAG
-* **Backend & Web:** Node.js, Express.js, FastAPI, REST APIs
-* **Databases & Tools:** MongoDB, Git, Docker, Streamlit, Linux
+Software Developer & AI Enthusiast | Computer Science and Business System Graduate  
+Passionate about building full-stack applications, computer vision systems, and multimodal AI pipelines.
 
 ---
 
-### 🌟 Featured Projects
+### Technical Skills
+* Languages: C, C++, Java, Python
+* Web Development: HTML, CSS, JavaScript
+* Backend / Frameworks: Node.js, Express.js, Flask
+* Databases: MongoDB, MySQL
+* Tools & Platforms: Git, GitHub, Kaggle, VS Code
+* AI/ML: Multimodal AI, Agentic Tool Calling, PyTorch
+
+---
+
+### Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -24,7 +26,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-md-ahmed&show_icons=true&theme=tokyonight&hide_border=true)
-
-📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/syed-muhammad-ahmed-3b2701298)
+Reach out to me: [LinkedIn](https://www.linkedin.com/in/syed-muhammad-ahmed-3b2701298)
