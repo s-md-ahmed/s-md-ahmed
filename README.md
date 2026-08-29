@@ -1,7 +1,7 @@
 ### Hi there, I'm Syed Muhammad Ahmed
 
 Software Developer & AI Enthusiast | Computer Science and Business System Graduate  
-Passionate about building full-stack applications, computer vision systems, and multimodal AI pipelines.
+Passionate about building full-stack AI applications.
 
 ---
 
