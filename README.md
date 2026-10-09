@@ -1,6 +1,6 @@
 ### Hi there, I'm Syed Muhammad Ahmed
 
-**Computer Science Undergrad**  JSS Science and Technology University (9.19 CGPA)  
+**B.E. Computer Science and Business Systems,**  JSS Science and Technology University (9.19 CGPA)  
 Passionate about building autonomous multi-agent systems, document intelligence pipelines, and full-stack web applications.
 
 ---
