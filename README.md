@@ -1,11 +1,11 @@
-### Hi there, I'm Syed Muhammad Ahmed 👋
+### Hi there, I'm Syed Muhammad Ahmed 
 
 **Computer Science Undergrad** | JSS Science and Technology University (9.19 CGPA)  
 Passionate about building autonomous multi-agent systems, document intelligence pipelines, and full-stack web applications.
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 * **Languages:** Python, JavaScript, C, C++, Java
 * **Frameworks & Backend:** FastAPI, Node.js, Express.js, REST APIs, Bootstrap 5
@@ -15,7 +15,7 @@ Passionate about building autonomous multi-agent systems, document intelligence 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Tech Stack | Key Architecture & Features |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ Passionate about building autonomous multi-agent systems, document intelligence 
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 * **LinkedIn:** [syed-muhammad-ahmed-3b2701298](https://www.linkedin.com/in/syed-muhammad-ahmed-3b2701298)
 * **Email:** syed.2020.md@gmail.com
